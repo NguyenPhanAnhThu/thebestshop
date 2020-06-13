@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/com/thebestshop/controller/AccountController.java=UTF-8
+encoding//src/com/thebestshop/controller/AdminCategoryController.java=UTF-8
+encoding//src/com/thebestshop/controller/AdminLoginController.java=UTF-8
+encoding//src/com/thebestshop/controller/AdminProductController.java=UTF-8
+encoding//src/com/thebestshop/entity/Category.java=UTF-8
+encoding//src/com/thebestshop/service/CookieService.java=UTF-8
+encoding//src/com/thebestshop/service/MailerService.java=UTF-8
